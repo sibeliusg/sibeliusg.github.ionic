@@ -72,7 +72,7 @@ sections:
     url: "#"
 - type: aside.html
   section_id: aside
-  title: Free Download at Start Bootstrap!
+  title: Blub
   actions:
   - title: Download Now!
     url: https://startbootstrap.com/themes/creative/
